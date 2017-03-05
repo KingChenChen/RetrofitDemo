@@ -76,4 +76,6 @@ public class MainActivity extends AppCompatActivity {
     //Android中进行测试
 
     //GitHub中进行冲突测试
+
+    //从GitHub克隆下来的代码
 }
